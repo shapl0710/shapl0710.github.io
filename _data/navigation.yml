@@ -2,8 +2,8 @@
 # pages in order as they should show up.
 main:
   - title: "About"
-    url: http://shapl.com/about
+    url: http://shapl.com
   - title: "Archives"
     url: /archives/
   - title: "GitHub"
-    url: https://github.com/yous/whiteglass
+    url: https://github.com/shapl0710
